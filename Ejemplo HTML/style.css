@@ -1,0 +1,26 @@
+/* Agregamos estilos al body */
+body{background-color: rgb(127, 186, 112)}
+p{font-family: "Edu VIC WA NT Beginner", cursive; 
+    font-size: 18px;
+    border-style: dashed;
+    border-color:brown
+    border-radius: 12px;
+    border: 5px dotted;}
+/* Agregamos ancho y alto */
+img{
+    width: 90px;
+    height: 20px;
+    border-style: dotted;
+    border-color: rgb(233, 146, 69);
+    border-radius: 100px;
+}
+/*Cambiarle tamaños a mi imagen por class*/ 
+.govegan{
+    width: 70px;
+    height: 70px;
+    border-style: groove;
+}
+{ div{background-color: rgb(124, 144, 37);}}
+#Parrafo-1{
+    background-color: rgb(0, 255, 128);
+}
